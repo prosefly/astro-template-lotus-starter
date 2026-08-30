@@ -68,7 +68,7 @@
             "label": "Theme Source",
             "href": "https://github.com/prosefly/astro-theme-lotus",
             "external": true
-          }
+          },
           {
             "label": "Template Source",
             "href": "https://github.com/prosefly/astro-template-lotus-starter",
