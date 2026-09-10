@@ -3,13 +3,6 @@
 Starter template for building documentation sites with
 [`@prosefly/astro-theme-lotus`](https://github.com/prosefly/astro-theme-lotus).
 
-## Deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fprosefly%2Fastro-template-lotus-starter&project-name=lotus-starter&repository-name=lotus-starter)
-
-This starter deploys to Vercel as a static Astro site. Vercel runs
-`pnpm build` and serves the generated `dist` directory.
-
 ## Use This Template
 
 ```sh
